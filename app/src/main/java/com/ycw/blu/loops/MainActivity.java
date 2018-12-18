@@ -28,7 +28,7 @@ public class MainActivity extends AppCompatActivity {
 //        TextView result = findViewById(R.id.result);
 //        result.setText("");
 //        for (int counter = 0; counter < 20; counter++) {
-//            result.append("Number "+counter+"\nxxx");
+//            result.append("Number "+counter+"\n");
 //        }
         result = findViewById(R.id.result);
         number = findViewById(R.id.edtnumber);
